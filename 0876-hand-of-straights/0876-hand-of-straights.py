@@ -6,20 +6,21 @@ class Solution:
         number_of_cards = len(hand) 
         if number_of_cards%groupSize:
             return False 
-        hand.sort()
-        hand_bool = [True for i in range(number_of_cards)]
-        for i in range(number_of_cards):
-            curr = hand[i]
-            count = 1
-            if hand_bool[i]:
-                hand_bool[i] = False
-                for j in range(i+1, number_of_cards):
-                    if hand_bool[j] and curr + 1 == hand[j] and count < groupSize:
-                        count += 1
-                        hand_bool[j] = False
-                        curr = hand[j]
-                if count != groupSize:
-                    return False
 
+        c = Counter(hand)
+        for i in sorted(hand):
+            # print(c, i)
+            if c[i] > 0:
+                val = c[i]
+                for j in range(groupSize):
+                    if i+j in c:
+                        # print(i,i+j)
+                        c[i+j] -= val
+                    else:
+                        return False
+                    if c[i+j] < 0:
+                        return False
+
+        # print(c)
         return True
                 
