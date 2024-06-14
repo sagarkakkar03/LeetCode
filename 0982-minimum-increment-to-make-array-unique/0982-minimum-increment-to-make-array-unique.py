@@ -3,7 +3,6 @@ class Solution:
         nums.sort()
         ans = 0
         prev = nums[0]
-        print(nums)
         for i in range(1, len(nums)):
             if prev >= nums[i]:
                 ans += (prev-nums[i]+1)
