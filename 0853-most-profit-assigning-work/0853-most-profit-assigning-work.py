@@ -1,8 +1,7 @@
 class Solution:
     def maxProfitAssignment(self, difficulty: List[int], profit: List[int], worker: List[int]) -> int:
         profit_for_difficulty = [0 for i in range(10**5+1)]
-        zipped_arr = [(difficulty, profit) for difficulty, profit in zip(difficulty, profit)]
-        zipped_arr.sort()
+        zipped_arr = sorted(zip(difficulty, profit))
         
         for diff, prof in zipped_arr:
             profit_for_difficulty[diff] = max(profit_for_difficulty[diff], prof)
