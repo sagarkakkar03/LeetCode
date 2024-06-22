@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0876-hand-of-straights](https://github.com/sagarkakkar03/LeetCode/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/sagarkakkar03/LeetCode/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/sagarkakkar03/LeetCode/tree/master/1217-relative-sort-array) |
+| [1370-count-number-of-nice-subarrays](https://github.com/sagarkakkar03/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 # Array
 |  |
 | ------- |
@@ -46,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1044-find-common-characters](https://github.com/sagarkakkar03/LeetCode/tree/master/1044-find-common-characters) |
 | [1137-height-checker](https://github.com/sagarkakkar03/LeetCode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/sagarkakkar03/LeetCode/tree/master/1217-relative-sort-array) |
+| [1370-count-number-of-nice-subarrays](https://github.com/sagarkakkar03/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1675-magnetic-force-between-two-balls](https://github.com/sagarkakkar03/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/sagarkakkar03/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/sagarkakkar03/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -79,9 +81,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/sagarkakkar03/LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [1370-count-number-of-nice-subarrays](https://github.com/sagarkakkar03/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 # Binary Search
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/sagarkakkar03/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0853-most-profit-assigning-work](https://github.com/sagarkakkar03/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [1675-magnetic-force-between-two-balls](https://github.com/sagarkakkar03/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
+# Sliding Window
+|  |
+| ------- |
+| [1370-count-number-of-nice-subarrays](https://github.com/sagarkakkar03/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
