@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0876-hand-of-straights](https://github.com/sagarkakkar03/LeetCode/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/sagarkakkar03/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/sagarkakkar03/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/sagarkakkar03/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/sagarkakkar03/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Hash Table
 |  |
@@ -50,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1370-count-number-of-nice-subarrays](https://github.com/sagarkakkar03/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1675-magnetic-force-between-two-balls](https://github.com/sagarkakkar03/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/sagarkakkar03/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/sagarkakkar03/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/sagarkakkar03/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 # Prefix Sum
 |  |
@@ -67,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1217-relative-sort-array](https://github.com/sagarkakkar03/LeetCode/tree/master/1217-relative-sort-array) |
 | [1675-magnetic-force-between-two-balls](https://github.com/sagarkakkar03/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/sagarkakkar03/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/sagarkakkar03/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 # Counting Sort
 |  |
 | ------- |
