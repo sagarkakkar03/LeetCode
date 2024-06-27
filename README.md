@@ -95,3 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1370-count-number-of-nice-subarrays](https://github.com/sagarkakkar03/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+# Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/sagarkakkar03/LeetCode/tree/master/1916-find-center-of-star-graph) |
